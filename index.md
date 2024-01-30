@@ -9,9 +9,9 @@ permalink: /
 # DevOps Documentation Library
 {: .fs-9 }
 
-## All documentation related to what we do is housed here for everyone.
+## All documentation related 
 
-## Click on one of the following buttons to get started: **Internal DevOps Documentation** - if you're one of the team and looking for resources; **External DevOps Documentation** - if you're not a team member but need help and/or resources to refer to.
+## Click on one of the following buttons to get started: **Internal DevOps Documentation** -; **External DevOps Documentation** - .
 {: .fs-6 .fw-300 }
 
 
