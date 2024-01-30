@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Release Overview
-parent: External Documentation
+parent: External Document
 nav_order: 1
 has_children: false
 ---
