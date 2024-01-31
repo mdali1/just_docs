@@ -14,7 +14,8 @@ permalink: /
 ## Click on one of the following buttons to get started: **Internal DevOps Documentation**; **External DevOps Documentation**.
 {: .fs-6 .fw-300 }
 
-# GitHub repo link https://github.com/mdali1/just_docs
+# [GitHub RepoLlink](https://github.com/mdali1/just_docs)
+[Link text](https://website-name.com)
 
 
 
